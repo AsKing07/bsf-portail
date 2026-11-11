@@ -14,7 +14,7 @@
 | N° | Titre | Statut | Ticket |
 |---|---|---|---|
 | 001 | Modèle d'ADR (ce fichier) | — | — |
-| 002 | Justifier la stack : framework, versions, base, build | À rédiger | BSF-44 |
+| 002 | [Justifier la stack : framework, versions, base, build, tests](ADR-002-stack-technique.md) | Validée | BSF-44 |
 | 003 | Stratégie d'authentification | À rédiger | BSF-54 |
 | 004 | Adaptateur vers le Référentiel de compétences | À rédiger | — |
 | 006 | Hébergement — **échéance 31/01/2027** | À rédiger | BSF-55 |
